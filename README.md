@@ -29,14 +29,14 @@ A powerful Termux-based CLI utility that allows you to:
 pkg update && pkg upgrade -y
 pkg install git -y
 git clone https://github.com/techvyana20-oss/termux-port-scanner-db.git
-cd porttool.sh
+cd termux-port-scanner-db
 chmod +x porttool.sh
 ```
 
 ## 🚀 Run the Tool
 
 ```bash
-bash port-tool.sh
+bash porttool.sh
 ```
 
 ## 📘 How It Works
