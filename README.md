@@ -28,8 +28,8 @@ A powerful Termux-based CLI utility that allows you to:
 ```bash
 pkg update && pkg upgrade -y
 pkg install git -y
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
+git clone https://github.com/techvyana20-oss/termux-port-scanner-db.git
+cd 
 chmod +x port-tool.sh
 ```
 
